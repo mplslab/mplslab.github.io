@@ -1,4 +1,4 @@
-```XML
+```xml
 
 //·Case·1)·Select·Syntax·-·standard
 <!--
