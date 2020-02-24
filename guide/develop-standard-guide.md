@@ -1,5 +1,5 @@
 #### 개발 포맷 가이드
 
-*   [Java](./formatter/java-forrmater-guide.md)
-*   [XML](./formatter/xml-forrmater-guide.md)
-*   [JavaScript](./formatter/js-forrmater-guide.md)
+*   [Java](./format/java-forrmat-guide.md)
+*   [XML](./format/xml-forrmat-guide.md)
+*   [JavaScript](./format/js-forrmat-guide.md)
