@@ -16,13 +16,16 @@
 ············)·AS·REAL_DC_CODE
 ····FROM····USER······U·····--·회원
 ········,···USER_AUTH·UA····--·회원·권한
-························································································
 ····WHERE···U.AUTH_CODE···=·UA.AUTH_CODE
 ····AND·····U.USERID······=·#{value}
 ····AND·····U.DELETE_FLAG·=·'N'
 </select>
 
 //·Case·2)·Select·Syntax·-·SubQuery
+<!--
+····사용자·목록·정보를·조회한다.
+····2020.02.17····jsjeon····init
+-->
 <select·id="selectUserList"·resultType="hashmap">
 ····/*·User.selectUserList·*/
 ····SELECT··T2.*
@@ -51,6 +54,10 @@
 ····WHERE···RNUM·=·#{firstRecordIndex}
 </select>
 
+<!--
+····사원·목록·정보를·조회한다.
+····2020.02.17····jsjeon····init
+-->
 //·Case·2)·Select·Syntax·-·Inline·View
 <select·id="selectEmpList"·resultType="hashmap">
 ····/*·User.selectEmpList·*/
