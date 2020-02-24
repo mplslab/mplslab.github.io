@@ -1,4 +1,4 @@
-```XML
+```xml
 
 //·Insert·Syntax·-·standard
 <!--
