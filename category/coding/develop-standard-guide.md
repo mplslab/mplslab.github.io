@@ -1,7 +1,7 @@
 #### 개발 포맷 가이드
 
 *   [Java](./java/java-forrmat-guide.md)
-    - [Class](./xml/class-format.md)
+    - [Class](./java/class-format.md)
 *   [XML](./xml/xml-forrmat-guide.md)
     - [Select](./xml/select-format.md)
     - [Insert, Update, Delete](./xml/insert-delete-update-format.md)
