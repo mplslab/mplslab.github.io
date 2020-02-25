@@ -5,7 +5,7 @@
  *
  * @version : 1.0
  * @author  : jsjeon
- * @date    : 2020. 2. 14.
+ * @date    : 2020. 02. 14.
  * @see
  *
  * <pre>
@@ -13,7 +13,7 @@
  * -----------------------------------------------------------------
  *     수정일            수정자                 수정내용
  * -----------------------------------------------------------------
- *   2020. 2. 14.        jsjeon                 MPLS 유지보수 init
+ *   2020. 02. 14.       jsjeon                 MPLS 유지보수 init
  *
  * </pre>
  */
@@ -27,7 +27,7 @@ public class UserController
      *
      * @version : 1.0
      * @author  : jsjeon
-     * @date    : 2020. 2. 24.
+     * @date    : 2020. 02. 24.
      *
      * @param reserveModel
      * @param rsvNo
